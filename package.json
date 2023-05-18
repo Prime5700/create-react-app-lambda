@@ -1,6 +1,6 @@
 {
   "name": "whocares",
-  "homepage": "https://get2bed.online",
+  "private": true,
   "version": "0.1.0",
   "dependencies": {
     "@headlessui/react": "^1.7.11",
