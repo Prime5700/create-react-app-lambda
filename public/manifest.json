@@ -1,0 +1,15 @@
+{
+  "short_name": "Who Cares",
+  "name": "Who Cares | What | We | Wear",
+  "icons": [
+    {
+      "src": "logo-dark.svg",
+      "type": "image/svg",
+      "sizes": "803x670"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
